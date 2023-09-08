@@ -1,0 +1,15 @@
+.btn{
+    border: none;
+    color: darkslategray;
+    background-color:tomato;
+    margin: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 10px;
+    font-size: 28px;
+}
+.btn:hover{
+    color:tomato ;
+    background-color:darkslategray;
+    cursor: pointer;
+}

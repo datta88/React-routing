@@ -1,0 +1,19 @@
+
+.btn1{
+    border: 1px solid #8cff1a;
+    color: #b3ff66;
+    margin: 10px;
+    background-color: azure;
+    border: none;
+    margin: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 10px;
+    font-size: 28px;
+}
+.btn1:hover{
+    background-color: #8cff1a;
+    border: none;
+    color: black;
+    cursor: pointer;
+}
